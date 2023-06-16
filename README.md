@@ -1,10 +1,6 @@
-[![Made in Nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=flat-square)](https://github.com/acekyd/made-in-nigeria)
-
-> You can quickly get a private blockchain up and running from [blockchain-starter](https://github.com/DOkwufulueze/blockchain-starter)
+> You can quickly get a private blockchain up and running from [blockchain-starter]
 
 ## eth-vue Truffle Box: With Ganache Blockchain Option, Ropsten Network Configuration, and Gravatar access
-
-![eth-vue](https://raw.githubusercontent.com/DOkwufulueze/eth-vue/master/box-img-lg.png)
 
 This Truffle Box provides everything you need to quickly build Ethereum dApps that have authentication features with [Vue 3](https://github.com/vuejs/vue-next), including configuration for easy deployment to the Ropsten Network. It's also Gravatar-enabled. Connecting to a running [Ganache](https://github.com/trufflesuite/ganache) blockchain network from Truffle is also possible -- for fast development and testing purposes.<br>
 Built on [Truffle 5](https://github.com/trufflesuite/truffle/releases), [eth-vue](https://github.com/DOkwufulueze/eth-vue) uses [vuex](https://github.com/vuejs/vuex) for state management, [vuex-persist](https://github.com/championswimmer/vuex-persist) for local storage of app state, and [vue-router](https://github.com/vuejs/vue-router) for routing.
@@ -12,7 +8,7 @@ Authentication functionalities are handled by Smart Contracts running on the Eth
 
 With deployment configuration for the Ropsten Network, deployment to the remote test network doesn't have to be a pain anymore. It's now as simple as `truffle migrate --network ropsten`
 
-If you have a running Ganache blockchain network, configuring with [eth-vue](https://github.com/DOkwufulueze/eth-vue) will connect you immediately to the private blockchain. Visit the [Ganache](https://github.com/trufflesuite/ganache) page for installation and startup instructions, install Ganache, and [eth-vue](https://github.com/DOkwufulueze/eth-vue) will connect accordingly.
+If you have a running Ganache blockchain network, configuring with [eth-vue] will connect you immediately to the private blockchain. Visit the [Ganache](https://github.com/trufflesuite/ganache) page for installation and startup instructions, install Ganache, and [eth-vue] will connect accordingly.
 
 Simply unbox and start building your own dApp.
 
@@ -133,13 +129,3 @@ The default port for `truffle develop` is 9545, so it doesn't conflict with any 
 ## And that's it, you're DONE!
 
 <br>
-
-### Please send bug issues you may encounter to [Issues](https://github.com/DOkwufulueze/eth-vue/issues)
-
-## Copyleft
-
-![Copyleft](https://raw.githubusercontent.com/DOkwufulueze/eth-vue/master/static/images/copyleft.png) 2017 Daniel Okwufulueze
-
-## Licence
-
-This dApp is distributed under the [GNU GPL-3.0](https://github.com/DOkwufulueze/eth-vue/blob/master/LICENCE.md) licence.
